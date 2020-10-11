@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65de6af2-e877-40de-ad1b-608595f64e64" name="Default Changelist" comment="Task: cards added for pages">
+    <list default="true" id="65de6af2-e877-40de-ad1b-608595f64e64" name="Default Changelist" comment="task: minor changes">
+      <change afterPath="$PROJECT_DIR$/hariji" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +66,7 @@
       <updated>1601007908274</updated>
       <workItem from="1601007911808" duration="13299000" />
       <workItem from="1601076663935" duration="1888000" />
+      <workItem from="1602375299951" duration="697000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Home page added">
       <created>1601062347542</created>
@@ -96,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: Home page added" />
@@ -111,10 +114,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="459" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1601008158408" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1601008092474">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="216" y="9" key="SettingsEditor" timestamp="1601089107103">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1601008092474" />
+    <state x="216" y="9" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1601089107102" />
     <state x="387" y="119" key="Vcs.Push.Dialog.v2" timestamp="1601076791060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
